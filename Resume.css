@@ -1,0 +1,163 @@
+#header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background: gray;
+    color: white;
+
+}
+#ui{
+    display: grid;
+    grid-template-columns: 0.4fr 0.5fr;
+}
+#contacts{
+    background: lightslategrey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#skills{
+    background: lightslategrey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.skills{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#space{
+    margin-left: 30px;
+}
+#progress-bar{
+    background:lightslategray;
+    height: 10px;
+    margin-top: 10px;
+    width: 100px;
+}
+#progress{
+    background: black;
+    height: 10px;
+    width: 80px;
+}
+#progress-bar1{
+    background:lightslategray;
+    height: 10px;
+    margin-top: 10px;
+    width: 100px;
+}
+#progress1{
+    background: black;
+    height: 10px;
+    width: 90px;
+}
+#progress-bar2{
+    background:lightslategray;
+    height: 10px;
+    margin-top: 10px;
+    width: 100px;
+}
+#progress2{
+    background: black;
+    height: 10px;
+    width: 55px;
+}
+#progress-bar3{
+    background:lightslategray;
+    height: 10px;
+    margin-top: 10px;
+    width: 100px;
+}
+#progress3{
+    background: black;
+    height: 10px;
+    width: 75px;
+}
+#progress-bar4{
+    background:lightslategray;
+    height: 10px;
+    margin-top: 10px;
+    width: 100px;
+}
+#progress4{
+    background: black;
+    height: 10px;
+    width: 60px;
+}
+#progress-bar5{
+    background:lightslategray;
+    height: 10px;
+    margin-top: 10px;
+    width: 100px;
+}
+#progress5{
+    background: black;
+    height: 10px;
+    width: 68px;
+}
+.TopM{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#exp1{
+    
+    display: grid;
+    grid-template-columns: 0.4fr 3fr 3fr;
+}
+#head{
+    font-weight: bold;
+}
+#image{
+    height: 200px;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+#name{
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+svg{
+    height: 0.7em;
+    margin-left: 40px;
+
+}
+#left-margin{
+    margin-left: 20px;
+    font-weight: bold;
+}
+#web{
+    letter-spacing: 0.1em;
+    margin-top: 10px;
+}
+#underline{
+    width: 210px;
+    height: 7px;
+    margin-top: 10px;
+    background:WHITE;
+}
+#exp{
+    background: lightslategrey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#wrapper{
+    padding: 0px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 120px;
+    margin-right: 30px;
+}
+#exp5{
+    display: grid;
+    grid-template-columns: 0.2fr 3fr;
+    margin-bottom: 10px;
+}
